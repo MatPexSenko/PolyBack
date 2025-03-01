@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "_3_12_.Controllers.LabController",
+    "Method": "Show",
+    "RelativePath": "api/Lab",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_3_12_.Controllers.LabController",
+    "Method": "Add",
+    "RelativePath": "api/Lab/Add",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
